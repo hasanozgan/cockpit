@@ -1,6 +1,6 @@
 # COCKPIT is yet another dashboard framework
 
-### Requirements
+### Dependencies
 - React.js
 - React Bootstrap
 - React Router
